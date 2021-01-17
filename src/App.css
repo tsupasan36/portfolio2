@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "PT Sans", sans-serif;
+}
+a:hover {
+  color: #fff !important;
+}
+
+.aboutImage {
+  height: 300px !important;
+  width: 60%;
+  margin: auto;
+}
+
+.container-works {
+  width: 60%;
+  margin: auto;
+}
